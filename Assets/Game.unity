@@ -237,5 +237,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4f7b4c76c49f64683bcefdaa283707a2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ball: {fileID: 0}
-  paddle: {fileID: 0}
+  ball: {fileID: 114582878831876584, guid: e0899c7c37dff4af88fb8c3c5058d3ff, type: 3}
+  paddle: {fileID: 114461535581859112, guid: 370f3925ee07343daa9be7ba60ca48c5, type: 3}
